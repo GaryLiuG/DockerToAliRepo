@@ -5,5 +5,7 @@
 #nacos/nacos-server:v2.1.0
 #redis
 ghcr.io/sozercan/llama3.1:8b
+ollama/ollama
+ghcr.io/open-webui/open-webui:main
 
 
