@@ -7,5 +7,5 @@
 ghcr.io/sozercan/llama3.1:8b
 ollama/ollama
 ghcr.io/open-webui/open-webui:main
-
+ghcr.io/open-webui/open-webui:cuda
 
