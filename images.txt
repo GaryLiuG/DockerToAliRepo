@@ -9,4 +9,4 @@ ollama/ollama
 ghcr.io/open-webui/open-webui:main
 ghcr.io/open-webui/open-webui:cuda
 mintplexlabs/anythingllm
-approachingai/ktransformers
+approachingai/ktransformers:v0.1.1
