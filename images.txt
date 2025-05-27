@@ -12,4 +12,5 @@
 #approachingai/ktransformers:v0.1.1
 #ubuntu:22.04
 #infiniflow/ragflow:v0.16.0
-centos:centos7 
+#centos:centos7
+gcr.io/distroless/static:latest  --platform=Linux/arm64 
