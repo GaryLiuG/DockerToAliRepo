@@ -13,4 +13,5 @@
 #ubuntu:22.04
 #infiniflow/ragflow:v0.16.0
 #centos:centos7
---platform=linux/arm64 gcr.io/distroless/static:latest
+#--platform=linux/arm64 gcr.io/distroless/static:latest
+arm64v8/ubuntu:22.04
