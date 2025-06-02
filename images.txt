@@ -15,4 +15,5 @@
 #centos:centos7
 #--platform=linux/arm64 gcr.io/distroless/static:latest
 #--platform=linux/arm64 arm64v8/ubuntu:22.04
-chishin/nginx-proxy-manager-zh
+#chishin/nginx-proxy-manager-zh
+multiarch/qemu-user-static:register
