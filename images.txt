@@ -17,4 +17,6 @@
 #--platform=linux/arm64 arm64v8/ubuntu:22.04
 #chishin/nginx-proxy-manager-zh
 #multiarch/qemu-user-static:register
-docker.io/jc21/nginx-proxy-manager:latest
+#docker.io/jc21/nginx-proxy-manager:latest
+--platform=linux/arm64 registry.k8s.io/metrics-server/metrics-server:v0.6.2
+--platform=linux/arm64 kubernetesui/metrics-scraper:v1.0.8
