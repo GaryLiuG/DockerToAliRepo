@@ -23,4 +23,4 @@
 #--platform=linux/arm64 kibana:7.12.1
 #--platform=linux/arm64 filebeat:7.12.1
 #--platform=linux/arm64 arm64v8/elasticsearch:7.11.0
---platform=linux/arm64 alpine:3.18
+--platform=linux/arm64 centos:7
