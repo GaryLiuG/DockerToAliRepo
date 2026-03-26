@@ -24,5 +24,7 @@
 #--platform=linux/arm64 filebeat:7.12.1
 #--platform=linux/arm64 arm64v8/elasticsearch:7.11.0
 #--platform=linux/arm64 centos:7
-opengauss/chameleon:latest
-#mongoclient/mongoclient
+#--opengauss/chameleon:latest
+#--mongoclient/mongoclient
+--platform=linux/arm64 radialnet/nettools:latest
+radialnet/nettools:latest
